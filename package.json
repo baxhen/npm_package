@@ -1,0 +1,22 @@
+{
+  "name": "beraby",
+  "version": "1.0.0",
+  "description": "my test for my first NPM module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baxhen/npm_package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Leonardo Rebouças Batista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baxhen/npm_package/issues"
+  },
+  "homepage": "https://github.com/baxhen/npm_package#readme"
+}
